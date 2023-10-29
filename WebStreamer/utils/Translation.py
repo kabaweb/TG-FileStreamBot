@@ -36,8 +36,8 @@ class Language(object):
 
         stream_msg_text ="""
 <b>Nome :</b>: {}\n
-Tamanho {}
-Download {}
+Tamanho: {}\n
+Download: {}\n
 <b>Video :</b> {}"""
 
     class Test(object):
