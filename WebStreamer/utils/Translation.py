@@ -35,7 +35,9 @@ class Language(object):
 """
 
         stream_msg_text ="""
-<b>Vome :</b>: {}\n
+<b>Nome :</b>: {}\n
+{}
+{}
 <b>Video :</b> {}"""
 
     class Test(object):
